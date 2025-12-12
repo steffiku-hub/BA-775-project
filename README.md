@@ -1,2 +1,2 @@
-# BA-775-project
-This is our team's final project for Business Toolbox Class
+# Health-Insurance-Affordability-n-Coverage-Fairness-2015-2016-TEXAS-Marketplace
+This is our team's final project for Business Toolbox Class. We conducted a data analytics project on 2015–2016 Texas health insurance marketplace plans, integrating premium and out-of-pocket cost data to evaluate plan affordability and coverage fairness using SQL data cleaning, feature engineering, and K-means clustering.
